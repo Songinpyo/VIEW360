@@ -1,3 +1,8 @@
+[![Project Page](https://img.shields.io/badge/🌐_Project_Page-VIEW360-red)](https://songinpyo.github.io/VIEW360-Project/)
+[![Paper](https://img.shields.io/badge/📄_Paper-WACV-blue)](https://openaccess.thecvf.com/content/WACV2025/papers/Song_Anomaly_Detection_for_People_with_Visual_Impairments_using_an_Egocentric_WACV_2025_paper.pdf)
+[![Dataset](https://img.shields.io/badge/📊_Dataset-Coming_Soon-lightgrey)]()
+[![Lab](https://img.shields.io/badge/🔬_Lab-I2SLab-darkgreen)](https://i2slab.skku.edu/)
+
 # VIEW360
 Official repository of "Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera" (WACV 2025)
 
@@ -14,10 +19,12 @@ Recent advancements in computer vision have led to a renewed interest in develop
 
 ## Citation
 ```bibtex
-@article{song2024anomaly,
-  title={Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera},
-  author={Song, Inpyo and Lee, Sanghyeon and Joo, Minjun and Lee, Jangwon},
-  journal={arXiv preprint arXiv:2411.10945},
-  year={2024}
+@InProceedings{Song_2025_WACV,
+    author    = {Song, Inpyo and Lee, Sanghyeon and Joo, Minjun and Lee, Jangwon},
+    title     = {Anomaly Detection for People with Visual Impairments using an Egocentric 360-Degree Camera},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {2828-2837}
 }
 ```
