@@ -1,9 +1,11 @@
-<p align="center">
-  <a href="https://songinpyo.github.io/VIEW360-Project/"><img src="https://img.shields.io/badge/🌐_Project_Page-VIEW360-red?style=for-the-badge" alt="Project Page"></a>
-  <a href="https://openaccess.thecvf.com/content/WACV2025/papers/Song_Anomaly_Detection_for_People_with_Visual_Impairments_using_an_Egocentric_WACV_2025_paper.pdf"><img src="https://img.shields.io/badge/📄_Paper-WACV-blue?style=for-the-badge" alt="Paper"></a>
-  <img src="https://img.shields.io/badge/📊_Dataset-Coming_Soon-lightgrey?style=for-the-badge" alt="Dataset">
-  <a href="https://i2slab.skku.edu/"><img src="https://img.shields.io/badge/🔬_Lab-i2slab-darkgreen?style=for-the-badge" alt="Lab"></a>
-</p>
+<div align="center">
+  
+[<img src="https://img.shields.io/badge/🌐_Project_Page-VIEW360-red?style=for-the-badge" alt="Project Page" height="35">](https://songinpyo.github.io/VIEW360-Project/)
+[<img src="https://img.shields.io/badge/📄_Paper-WACV-blue?style=for-the-badge" alt="Paper" height="35">](https://openaccess.thecvf.com/content/WACV2025/papers/Song_Anomaly_Detection_for_People_with_Visual_Impairments_using_an_Egocentric_WACV_2025_paper.pdf)
+[<img src="https://img.shields.io/badge/📊_Dataset-Coming_Soon-lightgrey?style=for-the-badge" alt="Dataset" height="35">](https://songinpyo.github.io/VIEW360-Project/)
+[<img src="https://img.shields.io/badge/🔬_Lab-i2slab-darkgreen?style=for-the-badge" alt="Lab" height="35">](https://i2slab.skku.edu/)
+
+</div>
 
 # VIEW360
 Official repository of "Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera" (WACV 2025)
