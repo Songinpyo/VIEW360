@@ -1,0 +1,34 @@
+# Local editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Training and evaluation outputs
+ckpt/
+checkpoint/
+runs/
+outputs/
+*.out
+
+# Model weights and released predictions are distributed separately.
+weights/*
+!weights/README.md
+*.pkl
+*.pth
+*.pt
+*.zip
+
+# Papers are local references and may not be redistributed by this repository.
+docs/papers/
+
+# Local research-agent instructions.
+AGENTS.md

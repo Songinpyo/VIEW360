@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or VIEW360, please cite the WACV 2025 paper."
+title: "FDPN on VIEW360"
+type: software
+repository-code: "https://github.com/Songinpyo/VIEW360"
+authors:
+  - family-names: Song
+    given-names: Inpyo
+  - family-names: Lee
+    given-names: Sanghyeon
+  - family-names: Joo
+    given-names: Minjun
+  - family-names: Lee
+    given-names: Jangwon
+preferred-citation:
+  type: conference-paper
+  title: "Anomaly Detection for People with Visual Impairments Using an Egocentric 360-Degree Camera"
+  authors:
+    - family-names: Song
+      given-names: Inpyo
+    - family-names: Lee
+      given-names: Sanghyeon
+    - family-names: Joo
+      given-names: Minjun
+    - family-names: Lee
+      given-names: Jangwon
+  collection-title: "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2025
+  doi: 10.1109/WACV61041.2025.00280
